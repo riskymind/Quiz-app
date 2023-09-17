@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: https://github.com/riskymind/resturant
-- Live Site URL: https://riskymind.github.io/resturant/
+- Solution URL: https://github.com/riskymind/Quiz-app
+- Live Site URL: https://riskymind.github.io/Quiz-app/
 
 ### Built with
 
