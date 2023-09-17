@@ -1,9 +1,5 @@
 # Quiz-app
 
-### Screenshot
-
-![](./dist/images/resturant_page.png)
-
 ### Links
 
 - Solution URL: https://github.com/riskymind/Quiz-app
